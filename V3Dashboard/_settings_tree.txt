@@ -1,0 +1,1548 @@
+T: id="mainContent" bis_skin_checked="1">
+<section>
+<div [16cf945d]>
+  <h1 [dfbc982a]>
+    T: Account Settings
+  <div [43d5f781]>
+    <div>
+      <h1 [e0d0cc74]>
+        T: General Information
+      <div [5bab1308]>
+        <div [e8adab0c]>
+          <div [5794a21e] label=Username>
+            <h1 [c05d9cd4]>
+              T: Username
+            <div [8c42d41e undefined undefined]>
+              <span [ba688a4f]>
+                <svg>
+                  <path>
+                <path>
+              <svg>
+              <input [c12990bd] type=text value=fuckdykes>
+          <div [5794a21e] label=Display Name>
+            <h1 [c05d9cd4]>
+              T: Display Name
+            <div [8c42d41e undefined undefined]>
+              <span [ba688a4f]>
+                <svg>
+                  <path>
+                <path>
+              <svg>
+              <input [c12990bd] type=text value=dykes hater ph=Display Name>
+          <div [65c01dba]>
+            <div [c05d9cd4] label=Alias>
+              <h1 [3dc0b2e3]>
+                T: Alias
+                <div [d5676189]>
+                  <svg>
+                    <path>
+                  <path>
+                <svg>
+              <span [383431a5]>
+                <svg>
+                  <path>
+                <path>
+                <path>
+              <path>
+              <circle>
+            <circle>
+            <path>
+          <path>
+        <svg>
+          T: Open Alias Manager
+    <div [5794a21e] label=Email>
+      <h1 [c05d9cd4]>
+        T: Email
+      <div [8c42d41e undefined undefined]>
+        <span [ba688a4f]>
+          <svg>
+            <path>
+          <path>
+        <svg>
+        <p>
+          <svg>
+            <path>
+          <path>
+        <svg>
+        <input [c12990bd] type=password value=pandabossot+92123afa@gmail.com>
+<div>
+  <h1 [e0d0cc74]>
+    T: Language Settings
+  <div [5bab1308]>
+    <div [e8adab0c]>
+      <div [25b58af8]>
+        <h1>
+          T: Choose the language you want to use on guns.lol.
+        <div [953273cc]>
+          <button [1f6ca460] type=button>
+            <span [510507db ]>
+              <svg>
+                <path>
+              <path>
+              <path>
+            <path>
+            <path>
+          <path>
+          <marker>
+            <path>
+          <path>
+        <path>
+      <path>
+    <svg>
+      <span>
+        T: English
+        <span [7bb701b5]>
+          T: (US)
+    <svg>
+      <path>
+    <path>
+  <svg>
+  <div [6f594cd3 7526483c e8371c9b]>
+    <div [594b5617]>
+      <button [5078a647 7dd97851 ]>
+        <svg>
+          <path>
+        <path>
+        <path>
+      <path>
+      <path>
+    <path>
+    <marker>
+      <path>
+    <path>
+  <path>
+<path>
+<svg>
+  <span>
+    T: English
+    <span [7bb701b5]>
+      T: (United States)
+<button [5078a647 ]>
+  <svg>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: Español
+    <span [7bb701b5]>
+      T: (España)
+<button [5078a647 ]>
+  <svg>
+    <g>
+      <path>
+    <path>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<g>
+  <path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: Português
+    <span [7bb701b5]>
+      T: (Brasil)
+<button [5078a647 ]>
+  <svg>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: Français
+    <span [7bb701b5]>
+      T: (France)
+<button [5078a647 ]>
+  <svg>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: Deutsch
+    <span [7bb701b5]>
+      T: (Deutschland)
+<button [5078a647 ]>
+  <svg>
+    <g>
+      <path>
+    <path>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: Türkçe
+    <span [7bb701b5]>
+      T: (Türkiye)
+<button [5078a647 625d5d01]>
+  <svg>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: Русский
+    <span [7bb701b5]>
+      T: (Россия)
+<button [5078a647 c99d9760]>
+  <svg>
+    <defs>
+      <clippath>
+        <path>
+      <path>
+  <g>
+    <path>
+  <path>
+  <path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<path>
+<svg>
+  <span>
+    T: العربية
+    <span [7bb701b5]>
+      T: (السعودية)
+<div>
+  <h1 [e0d0cc74]>
+    T: Discord Settings
+  <div [5bab1308]>
+    <div [e8adab0c]>
+      <div [4c19e60e]>
+        <div [ef9aaff3]>
+          <h1>
+            T: Claim your guns.lol badges and perks as roles on the official Discord server
+          <span>
+            T: Claim Now
+<div>
+  <h1 [e0d0cc74]>
+    T: Security Settings
+  <div [5bab1308]>
+    <div [e8adab0c 88b7831d]>
+      <div [40560dd5]>
+        <h1>
+          T: Multi-factor authentication
+        <h3>
+          T: Multi-factor authentication adds a layer of security to your account
+      <div [5794a21e]>
+        <div [8c42d41e]>
+          <label [bebc3157]>
+            <input [6848431b] type=checkbox>
+            <span [89bc1537]>
+              <span [b5e3f9d4]>
+    <div [e8adab0c 88b7831d 33591bc0]>
+      <div [40560dd5]>
+        <h1>
+          T: Active sessions
+        <h3>
+          T: Review every device currently signed in to your account and invalidate sessions you do not
+      <button [a717e328] type=button>
+        <svg>
+          <path>
+        <path>
+      <svg>
+        T: Session Management
+<div>
+  <h1 [e0d0cc74]>
+    T: Connections
+  <div [5bab1308]>
+    <div [e8adab0c 88b7831d]>
+      <div [40560dd5]>
+        <h1>
+          T: Login with Google
+        <h3>
+          T: Lets you sign in to your guns.lol account with Google.
+      <div [5794a21e]>
+        <div [8c42d41e]>
+          <label [bebc3157]>
+            <input [6848431b] type=checkbox>
+            <span [89bc1537]>
+              <span [b5e3f9d4]>
+    <div [e8adab0c 88b7831d]>
+      <div [40560dd5]>
+        <h1>
+          T: Login with Discord
+        <h3>
+          T: Lets you sign in to your guns.lol account with Discord
+      <div [5794a21e]>
+        <div [8c42d41e]>
+          <label [bebc3157]>
+            <input [6848431b] type=checkbox>
+            <span [89bc1537]>
+              <span [b5e3f9d4]>
+    <div [e3a20f92]>
+      <h1>
+        T: Connect your accounts for faster sign-in and easier account access.
+      <div [cb1af47a]>
+        <div [3c370c11]>
+          <svg>
+            <path>
+          <path>
+          <path>
+        <path>
+        <path>
+      <path>
+      <path>
+    <path>
+  <svg>
+    T: Google
+  <div [2297f916]>
+    <button [77ab46d4 ] type=button>
+      T: Connect Google
+<div [cb1af47a]>
+  <div [3c370c11]>
+    <svg>
+      <path>
+    <path>
+  <svg>
+    T: Discord
+  <div [2297f916]>
+    <button [77ab46d4 ] type=button>
+      T: Connect Discord
+<div>
+  <h1 [e0d0cc74]>
+    T: Gift Links
+  <div [5bab1308]>
+    <div [e8adab0c]>
+      <div [336c730b]>
+        <div [de0f1215]>
+          <p>
+            T: View and manage all your purchased gifts.
+          <a>
+            T: Buy a gift
+        <div [82995eef]>
+          <span>
+            <svg>
+              <path>
+            <path>
+            <path>
+          <path>
+        <svg>
+        <div>
+          <h2>
+            T: No gift links yet
+          <p>
+            T: You don't have any gift links yet.
+<div>
+  <h1 [e0d0cc74]>
+    T: Email Marketing
+  <div [5bab1308]>
+    <div [e8adab0c 88b7831d]>
+      <div [40560dd5]>
+        <h1>
+          T: Email updates
+        <h3>
+          T: Receive occasional emails about launches, features, and product updates.
+      <div [5794a21e]>
+        <div [8c42d41e]>
+          <label [bebc3157]>
+            <input [6848431b] type=checkbox>
+            <span [89bc1537]>
+              <span [b5e3f9d4]>
+<div>
+  <h1 [e0d0cc74]>
+    T: Account Actions
+  <div [5bab1308]>
+    <div [e8adab0c]>
+      <div [4c19e60e]>
+        <div [76f9152e]>
+          <h1>
+            T: Recovery codes are one-time use. Used codes can't be reused.
+          <span [1cb1801f]>
+            T: Regenerate Recovery Codes
+        <span>
+          T: Change Email
+        <div [ef9aaff3]>
+          <h1>
+            T: By changing your password, you will be logged out of every device.
+          <span>
+            T: Change Password
+        <a [92a7cf91]>
+          <svg>
+            <path>
+          <path>
+        <svg>
+          T: Logout
+        <div [ef9aaff3]>
+          <span [a733af7f]>
+            <svg>
+              <path>
+            <path>
+          <svg>
+            T: Delete Account
+<div>
+<div>
+<div>
+<div>
+<div>
+<next>
